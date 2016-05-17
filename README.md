@@ -22,7 +22,7 @@ The following microframeworks were considered when doing this research:
 - [Cuba](https://github.com/soveran/cuba) - [cuba.ru](apps/cuba.ru)
 - [Gin](https://github.com/jcasts/gin) - [gin.ru](apps/gin.ru)
 - [Hobbit](https://github.com/patriciomacadden/hobbit) - [hobbit.ru](apps/hobbit.ru)
-- [Lotus (Router)](https://github.com/lotus/router) - [lotus-router.ru](apps/lotus-router.ru)
+- [Hanami (Router)](https://github.com/hanami/router) - [hanami-router.ru](apps/hanami-router.ru)
 - [Nancy](https://github.com/heapsource/nancy) - [nancy.ru](apps/nancy.ru)
 - [NYNY](https://github.com/alisnic/nyny) - [nyny.ru](apps/nyny.ru)
 - [Mustermann](https://github.com/rkh/mustermann) - [mustermann.ru](apps/mustermann.ru)
@@ -79,7 +79,7 @@ roda                     15773.44       82.42%
 syro                     15677.54       81.92%
 cuba                     14664.93       76.62%
 hobbit                   14346.23       74.96%
-lotus-router             13298.08       69.48%
+hanami-router            13298.08       69.48%
 rack-response            12980.98       67.83%
 rambutan                 10817.10       56.52%
 brooklyn                 10116.29       52.86%
@@ -104,7 +104,7 @@ roda                    45        3752
 mustermann              51        4112
 cuba                    53        4072
 rack-response           56        5312
-lotus-router            66        4944
+hanami-router           66        4944
 brooklyn                69        6412
 nancy                   75        7644
 nyny                    82        8396
